@@ -4,7 +4,7 @@ This is a React-based portfolio website for a graphic designer, showcasing their
 
 ## Demo
 
-A live demo of the website can be found [here](#).
+A live demo of the website can be found [here](https://anaswara11.github.io/graphic-designer-portfolio/).
 
 ## Features
 
