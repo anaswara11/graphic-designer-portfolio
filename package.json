@@ -1,14 +1,32 @@
 {
-    "name": "myportfolio",
-    "version": "1.0.0",
-    "description": "portfolio",
-    "main": "index.html",
-    "scripts": {
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "homepage": "https://anaswara11.github.io/graphic-designer-portfolio",
+  "scripts": {
     "start": "live-server",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "Anaswara",
-    "license": "ISC",
-    "dependencies": {}
+  },
+  "keywords": [],
+  "author": "Anaswara",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
