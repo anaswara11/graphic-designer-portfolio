@@ -28,7 +28,7 @@ body {
 
 a {
   list-style-type: none;
-  color: #00c88f;
+  color: #E3B505;
 }
 
 input,
@@ -248,7 +248,7 @@ select {
 .preloader .loader {
   height: 40px;
   width: 40px;
-  border: 4px solid #00c88f;
+  border: 4px solid #E3B505;
   border-radius: 50%;
   border-top: 4px solid transparent;
   border-bottom: 4px solid transparent;
@@ -770,7 +770,7 @@ select {
 .service .service-item .service-item-inner:hover {
   -webkit-box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
   box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
-  border: 1px solid #00c88f;
+  border: 1px solid #E3B505;
   cursor: pointer;
 }
 
@@ -1252,7 +1252,7 @@ select {
   box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
-  border-color: #00c88f;
+  border-color: #E3B505;
 }
 
 .contact .contact-form .form-item textarea.form-control {
@@ -1472,7 +1472,7 @@ select {
   height: auto;
   /*margin-left: -125px;*/
   margin: auto;
-  background-color: #00c88f;
+  background-color: #E3B505;
   color: #fff;
   text-align: center;
   border-radius: 2px;

@@ -1,11 +1,11 @@
 .aside .logo a::before {
-  border-top: 4px solid #00c88f;
-  border-left: 4px solid #00c88f;
+  border-top: 4px solid #E3B505;
+  border-left: 4px solid #E3B505;
 }
 
 .aside .logo a::after {
-  border-right: 4px solid #00c88f;
-  border-bottom: 4px solid #00c88f;
+  border-right: 4px solid #E3B505;
+  border-bottom: 4px solid #E3B505;
 }
 
 .aside .nav li a:hover,
@@ -23,7 +23,7 @@ body.dark .portfolio .portfolio-filter button.active,
 .service .service-item .service-item-inner .icon .fa,
 body.dark .aside .nav li a.active,
 .aside .nav li a.active {
-  color: #00c88f;
+  color: #E3B505;
 }
 
 .btn,
@@ -38,9 +38,9 @@ body.dark .aside .nav li a.active,
 .aside .nav-toggler span::before,
 .aside .nav-toggler span::after,
 .home .intro .social-links a {
-  background-color: #00c88f;
+  background-color: #E3B505;
 }
 
 .portfolio .portfolio-filter button.active {
-  border-color: #00c88f;
+  border-color: #E3B505;
 }
